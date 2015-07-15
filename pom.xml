@@ -1,0 +1,24 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>name.broughton.reece</groupId>
+  <artifactId>GameTerminalEmulator</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <packaging>jar</packaging>
+
+  <name>Game Terminal Emulator</name>
+  <description>Library to make it easy to embed a game terminal emulator in your game.</description>
+
+
+  <contributors>
+    <contributor>
+      <name>Reece Broughton</name>
+    </contributor>
+    <contributor>
+      <name>Daniel K Lyons</name>
+      <email>fusion@storytotell.org</email>
+    </contributor>
+  </contributors>
+
+
+
+</project>
